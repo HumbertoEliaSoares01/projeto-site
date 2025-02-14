@@ -4,11 +4,12 @@
 }
 body{
     background-color: #dddddd;
+    padding: 25px;
 }
 main{
     background-color: #ffffff;
     width: 500px;
     margin: auto;
-    p adding: 10px;
+    padding: 25px;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.473);
 }
